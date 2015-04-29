@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-    name='troposphere',
-    version='0.7.2',
+    name='troposphere-yipit',
+    version='0.7.3',
     description="AWS CloudFormation creation library",
     author="Mark Peek",
     author_email="mark@peek.org",
